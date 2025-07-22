@@ -21,6 +21,8 @@ class ViewController: UIViewController {
         label.textAlignment = .center
         label.font = UIFont.systemFont(ofSize: 24)
         label.translatesAutoresizingMaskIntoConstraints = false
+        print(1)
+        print(2)
         
         // Добавляем UILabel на экран
         view.addSubview(label)
