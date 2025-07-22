@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         
         // Создаем UILabel
         let label = UILabel()
-        label.text = "Привет"
+        label.text = "ONE"
         label.textAlignment = .center
         label.font = UIFont.systemFont(ofSize: 24)
         label.translatesAutoresizingMaskIntoConstraints = false
